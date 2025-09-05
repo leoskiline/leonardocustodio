@@ -1,16 +1,16 @@
-# 👋 Olá! Eu sou Leonardo Custódio
+# 👋 Hello! I'm Leonardo Custódio
 
 ## 🚀 Full Stack Developer & AI Enthusiast
 
-> Transformando ideias em soluções escaláveis através de código limpo e arquiteturas robustas
+> Transforming ideas into scalable solutions through clean code and robust architectures
 
-Sou um engenheiro de software apaixonado com expertise que vai desde programação de baixo nível em C++ até aplicações de IA de ponta. Formado em Sistemas de Informação com especialização em Inteligência Artificial e Machine Learning.
+I'm a passionate software engineer with expertise spanning from low-level C++ programming to cutting-edge AI applications. Graduate in Information Systems with specialized postgraduate studies in Artificial Intelligence and Machine Learning.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
-### 💻 Linguagens de Programação
+### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -19,14 +19,14 @@ Sou um engenheiro de software apaixonado com expertise que vai desde programaç�
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-### ⚡ Frameworks & Tecnologias
+### ⚡ Frameworks & Technologies
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-### 🗄️ Bancos de Dados
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -38,26 +38,26 @@ Sou um engenheiro de software apaixonado com expertise que vai desde programaç�
 
 ---
 
-## 💼 O que eu trago para a mesa
+## 💼 What I Bring to the Table
 
 ### 🎯 **Backend Powerhouse**
-- **Arquitetura robusta** com Laravel, .NET Core e Slim Framework
-- **Segurança de nível empresarial** implementada em todas as soluções
-- **APIs RESTful** otimizadas para alta performance
+- **Robust architecture** with Laravel, .NET Core, and Slim Framework
+- **Enterprise-grade security** implemented across all solutions
+- **RESTful APIs** optimized for high performance
 
-### 🔧 **Especialista em Otimização**
-- **Otimização avançada de SQL** para queries complexas
-- **Estratégias de cache com Redis** para máxima performance
-- **Design de sistemas escaláveis** preparados para crescimento
+### 🔧 **Performance Optimization Expert**
+- **Advanced SQL optimization** for complex queries
+- **Redis caching strategies** for maximum performance
+- **Scalable system design** prepared for growth
 
-### ⚙️ **DevOps & Integração**
-- **Containerização com Docker** para ambientes consistentes
-- **Pipelines CI/CD** automatizados no Bitbucket
-- **Arquitetura de microsserviços** com Kafka para streaming
+### ⚙️ **DevOps & Integration Specialist**
+- **Docker containerization** for consistent environments
+- **Automated CI/CD pipelines** on Bitbucket
+- **Microservices architecture** with Kafka for message streaming
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leoskiline&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -66,7 +66,7 @@ Sou um engenheiro de software apaixonado com expertise que vai desde programaç�
 
 ---
 
-## 🔬 Atualmente Explorando
+## 🔬 Currently Exploring
 
 ```python
 current_focus = {
@@ -79,22 +79,22 @@ current_focus = {
 
 ---
 
-## 🎯 Missão Pessoal
+## 🎯 Personal Mission
 
-> Construir a ponte entre requisitos complexos de negócio e soluções técnicas elegantes que escalam.
+> Bridging the gap between complex business requirements and elegant technical solutions that scale.
 
-Acredito que a tecnologia deve servir às pessoas, não o contrário. Por isso, foco em criar soluções que não apenas resolvem problemas hoje, mas que crescem e se adaptam às necessidades do amanhã.
+I believe technology should serve people, not the other way around. That's why I focus on creating solutions that don't just solve today's problems, but grow and adapt to tomorrow's needs.
 
 ---
 
-## 🤝 Vamos Conectar?
+## 🤝 Let's Connect?
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/leonardo-cust%C3%B3dio-65276115a/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-cust%C3%B3dio-65276115a/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo_custodio12@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://seu-portfolio.com](https://leoskiline.github.io/leonardocustodio/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://leoskiline.github.io/leonardocustodio/)
 
 ---
 
 ### 💭 "The best way to predict the future is to invent it." - Alan Kay
 
-*Sempre em busca de novos desafios que expandem os limites da tecnologia!*
+*Always seeking new challenges that push the boundaries of technology!*
